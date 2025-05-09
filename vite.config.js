@@ -7,7 +7,7 @@ export default defineConfig({
   build: {
     rollupOptions: {
       input: {
-        uts1: "uts1.html",
+        Uts1: "Uts1.html",
       }
     }
   }
